@@ -95,6 +95,13 @@ layout: intro
 - **属性**
 
 ---
+layout: section
+---
+
+# 2022年平台开发
+超级引擎及FM基础平台研发
+
+---
 
 # V3.6（BIM+GIS）
 
@@ -146,7 +153,23 @@ layout: intro
 layout: fact
 ---
 # UE 云渲染
-前端界面 + UNREAL Engine
+前端界面 + UNREAL ENGINE
+
+---
+layout: statement
+---
+
+# 通用运维平台BIMFM设计及开发
+
+
+---
+layout: statement
+---
+# **开发手册**
+# **河图AR定位**
+# **轴网接口**
+# **GISLOD实例研究**
+# 其他项目中的技术开发研究
 
 
 ---
