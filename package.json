@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
+    "deploy": "slidev build --base /slides-2022/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
